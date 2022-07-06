@@ -1,4 +1,14 @@
-# Mini Coding Challenge
+# Solution
+This is the solution to the mini coding challenge
+
+Node version used: v18.4.0
+
+Libraries used: [lodash](https://lodash.com/)
+
+**Todos**
+1. Add test for individual functions.
+
+## Mini Coding Challenge
 
 Your challenge is to complete two utility functions and ensure their corresponding tests pass.
 
