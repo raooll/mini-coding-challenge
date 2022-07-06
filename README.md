@@ -7,6 +7,7 @@ Libraries used: [lodash](https://lodash.com/)
 
 **Todos**
 1. Add test for individual functions.
+2. Find a way to better organize html metadata regex.
 
 ## Mini Coding Challenge
 
